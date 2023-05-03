@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @synthHunter
+- 👋 Hi, I’m Ahmad Dolat Khah
 - 👀 I’m interested in Music , Data science
 - 🌱 I’m currently learning ....
 
